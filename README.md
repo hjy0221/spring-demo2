@@ -4,31 +4,31 @@
 
 ## 日本語
 
-自己紹介、SNS リンク、経歴、スキル、プロジェクト、実績を紹介する Spring Boot ベースのポートフォリオブログです。
+自己紹介、SNSリンク、キャリア、技術スタック、プロジェクトとパフォーマンスを示すためのSpring Bootベースのポートフォリオブログ。
 
-### 構成
+### 設定
 
-- 自己紹介、リンク、経歴、スキル、プロジェクト、実績のドメイン
-- 画面向け Controller、Service、DTO
-- プロジェクト詳細とスキルの関連モデル
-- 初期データ設定とリクエストインターセプター
-- GitHub Actions ワークフロー
+- 紹介、リンク、キャリア、技術、プロジェクト、パフォーマンスドメイン
+- 画面用Controller、Service、DTOレイヤー
+- プロジェクトの詳細と技術接続モデル
+- 初期データ構成と要求インターセプタ
+- GitHub Actionsワークフロー
 
-> 現在のリポジトリには Gradle / Maven のビルド設定と画面リソースが含まれておらず、単独で実行するための構成は完成していません。
+>現在のストレージスナップショットには、GradleまたはMavenのビルド設定と画面リソースが含まれていないため、単独で実行するために必要な構成は完全ではありません。
 
 ## English
 
-A Spring Boot portfolio blog for presenting an introduction, social links, work experience, skills, projects, and achievements.
+This is a Spring Boot-based portfolio blog to introduce yourself, social media links, career history, technology stack, projects and achievements.
 
-### Structure
+### Configuration
 
-- Introduction, link, experience, skill, project, and achievement domains
-- Presentation controllers, services, and DTOs
-- Project-detail and project-skill relationship models
-- Initial data setup and a request interceptor
-- GitHub Actions workflows
+- Introduction, links, career, skills, projects, achievements domains
+- Controller, Service, DTO layer for screen
+- Project details and technology connection model
+- Initial data configuration and request interceptor
+- GitHub Actions workflow
 
-> The current repository snapshot does not include Gradle or Maven build configuration or view resources, so it is not yet complete as a standalone runnable project.
+> The current repository snapshot does not contain Gradle or Maven build settings and screen resources, making the configuration required for standalone execution incomplete.
 
 ## 한국어
 
