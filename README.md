@@ -4,6 +4,8 @@
 
 ## 日本語
 
+[日本語](https://github.com/hjy0221/spring-demo2#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/spring-demo2#english) · [한국어](https://github.com/hjy0221/spring-demo2#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 自己紹介、SNSリンク、キャリア、技術スタック、プロジェクトとパフォーマンスを示すためのSpring Bootベースのポートフォリオブログ。
 
 ### 設定
@@ -18,6 +20,8 @@
 
 ## English
 
+[日本語](https://github.com/hjy0221/spring-demo2#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/spring-demo2#english) · [한국어](https://github.com/hjy0221/spring-demo2#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 This is a Spring Boot-based portfolio blog to introduce yourself, social media links, career history, technology stack, projects and achievements.
 
 ### Configuration
@@ -31,6 +35,8 @@ This is a Spring Boot-based portfolio blog to introduce yourself, social media l
 > The current repository snapshot does not contain Gradle or Maven build settings and screen resources, making the configuration required for standalone execution incomplete.
 
 ## 한국어
+
+[日本語](https://github.com/hjy0221/spring-demo2#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/spring-demo2#english) · [한국어](https://github.com/hjy0221/spring-demo2#%ED%95%9C%EA%B5%AD%EC%96%B4)
 
 자기소개, SNS 링크, 경력, 기술 스택, 프로젝트와 성과를 보여주기 위한 Spring Boot 기반 포트폴리오 블로그입니다.
 
